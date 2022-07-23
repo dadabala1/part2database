@@ -1,0 +1,17 @@
+﻿<Bike>
+  <Bikemodel>
+    <bikeid>a1</bikeid>
+    <model_name>apache RTR</model_name>
+    <price>150000</price>
+  </Bikemodel>
+  <Bikemodel>
+    <bikeid>a2</bikeid>
+    <model_name>KTM duke</model_name>
+    <price>200000</price>
+  </Bikemodel>
+  <Bikemodel>
+    <bikeid>a3</bikeid>
+    <model_name>HERO moto</model_name>
+    <price>120000</price>
+  </Bikemodel>
+</Bike>

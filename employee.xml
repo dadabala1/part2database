@@ -1,0 +1,20 @@
+﻿<Bike>
+  <Employee>
+    <emp_id>c1</emp_id>
+    <emp_name>tommy</emp_name>
+    <emp_location>london</emp_location>
+    <job_role>manager</job_role>
+  </Employee>
+  <Employee>
+    <emp_id>c2</emp_id>
+    <emp_name>jack</emp_name>
+    <emp_location>manchester</emp_location>
+    <job_role>IT Dept</job_role>
+  </Employee>
+  <Employee>
+    <emp_id>c3</emp_id>
+    <emp_name>dosan</emp_name>
+    <emp_location>newyork</emp_location>
+    <job_role>staff</job_role>
+  </Employee>
+</Bike>

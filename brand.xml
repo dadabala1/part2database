@@ -1,0 +1,20 @@
+﻿<Bike>
+  <Brand>
+    <brand_id>B1</brand_id>
+    <brand_name>APACHE</brand_name>
+    <release_date>2020-01-01</release_date>
+    <p_price>150000</p_price>
+  </Brand>
+  <Brand>
+    <brand_id>B2</brand_id>
+    <brand_name>KTM</brand_name>
+    <release_date>2019-01-01</release_date>
+    <p_price>200000</p_price>
+  </Brand>
+  <Brand>
+    <brand_id>B3</brand_id>
+    <brand_name>HERO</brand_name>
+    <release_date>2000-01-01</release_date>
+    <p_price>120000</p_price>
+  </Brand>
+</Bike>

@@ -1,0 +1,17 @@
+﻿<Bike>
+  <Store_details>
+    <bike_id>e1</bike_id>
+    <no_of_sales>50</no_of_sales>
+    <available_bike>25</available_bike>
+  </Store_details>
+  <Store_details>
+    <bike_id>e2</bike_id>
+    <no_of_sales>100</no_of_sales>
+    <available_bike>80</available_bike>
+  </Store_details>
+  <Store_details>
+    <bike_id>e3</bike_id>
+    <no_of_sales>20</no_of_sales>
+    <available_bike>9</available_bike>
+  </Store_details>
+</Bike>

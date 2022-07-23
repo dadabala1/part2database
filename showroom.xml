@@ -1,0 +1,17 @@
+﻿<Bike>
+  <showroom>
+    <showroom_id>d1</showroom_id>
+    <showroom_name>Apache showroom</showroom_name>
+    <location>london</location>
+  </showroom>
+  <showroom>
+    <showroom_id>d2</showroom_id>
+    <showroom_name>KTM showroom</showroom_name>
+    <location>manchester</location>
+  </showroom>
+  <showroom>
+    <showroom_id>d3</showroom_id>
+    <showroom_name>Hero Showroom</showroom_name>
+    <location>newyork</location>
+  </showroom>
+</Bike>
